@@ -64,7 +64,8 @@ def is_in_class(dictionary, questions, cls):
     print "Train accuracy for class " + cls + ": " + str(compute_accuracy(train_data_prediction, np.array(tr_lab) == cls))
     print "Test accuracy for class " + cls + ": " + str(compute_accuracy(test_data_prediction, np.array(ts_lab) == cls))
     # print [model.predict(average_vector(dictionary, line[1].lower())) for line in train_data]
-    # return [model.predict_proba(average_vector(dictionary, line[1].lower())) for line in train_data]
+    return [model.predict_proba(average_vector(dictionary, line[1].lower())) for line in train_data]
+    # return model
 
 
 def get_closest_words(dictionary, question):
@@ -110,16 +111,45 @@ if __name__ == "__main__":
     test_data_prediction = [cfier.predict(average_vector(word_vector, line[1].lower())) for line in test_data]
     print "Train accuracy " + str(compute_accuracy(train_data_prediction, coarse_train_labels))
     print "Test accuracy " + str(compute_accuracy(test_data_prediction, coarse_test_labels))
-    for z in zip(train_data_prediction, coarse_train_labels):
-        print z
-    for line in train_data:
-        print (line[1] + " " + str(get_closest_words(word_vector, line[1])))
+    # for z in zip(train_data_prediction, coarse_train_labels):
+    #     print z
+    # for line in train_data:
+    #     print (line[1] + " " + str(get_closest_words(word_vector, line[1])))
     s = set()
     [s.add(elem) for elem in coarse_train_labels]
     # print is_in_class(word_vector, question_vectors, 'NUM')
-    first = True
+    first = True  
+    # matrix = []  
+    # for c in s:
+    #     matrix.append(is_in_class(word_vector, question_vectors, c))
+    # npmatrix = np.array(matrix)
+    matrix = []
     for c in s:
-        is_in_class(word_vector, question_vectors, c)
+        matrix.append(is_in_class(word_vector, question_vectors, c))
 
+
+    npmatrix = np.array(matrix)
+      
+    m2 = []
+    for i in range(len(matrix[0])):
+        m2.append(max(npmatrix[:,i,0,1]) == npmatrix[:,i,0,1])
+
+    l = [i for i in s]    
+    map = {}
+    for i,e in enumerate(s):
+        map[e] = i
+    new_lab = np.zeros([len(coarse_train_labels), 6], dtype=bool)
+    for i,l in enumerate(coarse_train_labels):
+        new_lab[i][map[l]] = True
+
+
+
+    cnt = 0
+    for row1, row2 in zip(m2, new_lab):
+        if False not in (row1 == row2):
+            cnt += 1
+
+
+    print ("Accuracy " + str(cnt / float(len(m2))))
 
 
