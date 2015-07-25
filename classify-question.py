@@ -6,7 +6,7 @@ import string
 import random
 import numpy as np
 
-word_vector_path = "data/glove.6B.50d.bin"
+word_vector_path = "data/glove.6B.50d.txt"
 training_data_path = "data/train_5500.label"
 testing_data_path = "data/TREC_10.label"
 vector_dim = 50
@@ -76,7 +76,7 @@ def get_closest_words(dictionary, question):
 if __name__ == "__main__":
     random.seed(12384523)
     gensim.utils.to_unicode = any2unicode
-    word_vector = gensim.models.Word2Vec.load_word2vec_format(word_vector_path, binary=True)
+    word_vector = gensim.models.Word2Vec.load_word2vec_format(word_vector_path, binary=False)
     # word_vector.save_word2vec_format("data/glove.6B.50d.bin", binary=True)
     train_data = load_data(training_data_path)
     test_data = load_data(testing_data_path)
@@ -149,7 +149,7 @@ if __name__ == "__main__":
         if False not in (row1 == row2):
             cnt += 1
 
-
+    print ("Classification into each class separately:")
     print ("Accuracy " + str(cnt / float(len(m2))))
 
 
