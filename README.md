@@ -11,9 +11,19 @@ the second is number of dimensions of the vector. For this task you can use the 
 
 First parameter of the script is the file name and the second one is the number of dimension of the vector.
 
-You can run actual script simply without parameters:
+To run tests you should type command:
 
-    python classify-question.py
+    ipython notebook
+
+and then select classify-questions.ipynb notebook
+
+Results
+=======
+
+The accuracy on test data set is around 72%. The question vector is computed as an average from first two words in the question.
+If the first two words are "what is" then the question vector is computed as an averge over all words. The questions starting with "what"
+or "what is" are hard to classify because it would need some more information about which word in question is relevant for its type.
+
 
 DATASETS
 ========
