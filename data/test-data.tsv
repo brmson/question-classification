@@ -1,0 +1,500 @@
+0	NUM:dist	How far is it from Denver to Aspen ?	NUM
+1	LOC:city	What county is Modesto , California in ?	LOC
+2	HUM:desc	Who was Galileo ?	HUM
+3	DESC:def	What is an atom ?	DESC
+4	NUM:date	When did Hawaii become a state ?	NUM
+5	NUM:dist	How tall is the Sears Building ?	NUM
+6	HUM:gr	George Bush purchased a small interest in which baseball team ?	HUM
+7	ENTY:plant	What is Australia 's national flower ?	ENTY
+8	DESC:reason	Why does the moon turn orange ?	DESC
+9	DESC:def	What is autism ?	DESC
+10	LOC:city	What city had a world fair in 1900 ?	LOC
+11	HUM:ind	What person 's head is on a dime ?	HUM
+12	NUM:weight	What is the average weight of a Yellow Labrador ?	NUM
+13	HUM:ind	Who was the first man to fly across the Pacific Ocean ?	HUM
+14	NUM:date	When did Idaho become a state ?	NUM
+15	NUM:other	What is the life expectancy for crickets ?	NUM
+16	ENTY:substance	What metal has the highest melting point ?	ENTY
+17	HUM:ind	Who developed the vaccination against polio ?	HUM
+18	DESC:def	What is epilepsy ?	DESC
+19	NUM:date	What year did the Titanic sink ?	NUM
+20	HUM:ind	Who was the first American to walk in space ?	HUM
+21	DESC:def	What is a biosphere ?	DESC
+22	LOC:other	What river in the US is known as the Big Muddy ?	LOC
+23	DESC:def	What is bipolar disorder ?	DESC
+24	DESC:def	What is cholesterol ?	DESC
+25	HUM:ind	Who developed the Macintosh computer ?	HUM
+26	DESC:def	What is caffeine ?	DESC
+27	LOC:other	What imaginary line is halfway between the North and South Poles ?	LOC
+28	LOC:other	Where is John Wayne airport ?	LOC
+29	LOC:other	What hemisphere is the Philippines in ?	LOC
+30	NUM:speed	What is the average speed of the horses at the Kentucky Derby ?	NUM
+31	LOC:mount	Where are the Rocky Mountains ?	LOC
+32	DESC:def	What are invertebrates ?	DESC
+33	NUM:temp	What is the temperature at the center of the earth ?	NUM
+34	NUM:date	When did John F. Kennedy get elected as President ?	NUM
+35	NUM:period	How old was Elvis Presley when he died ?	NUM
+36	LOC:other	Where is the Orinoco River ?	LOC
+37	NUM:dist	How far is the service line from the net in tennis ?	NUM
+38	NUM:count	How much fiber should you have per day ?	NUM
+39	NUM:count	How many Great Lakes are there ?	NUM
+40	ENTY:plant	Material called linen is made from what plant ?	ENTY
+41	DESC:def	What is Teflon ?	DESC
+42	DESC:def	What is amitriptyline ?	DESC
+43	DESC:def	What is a shaman ?	DESC
+44	ENTY:animal	What is the proper name for a female walrus ?	ENTY
+45	ENTY:animal	What is a group of turkeys called ?	ENTY
+46	NUM:period	How long did Rip Van Winkle sleep ?	NUM
+47	DESC:def	What are triglycerides ?	DESC
+48	NUM:count	How many liters in a gallon ?	NUM
+49	HUM:gr	What is the name of the chocolate company in San Francisco ?	HUM
+50	DESC:def	What are amphibians ?	DESC
+51	HUM:ind	Who discovered x-rays ?	HUM
+52	HUM:ind	Which comedian 's signature line is `` Can we talk '' ?	HUM
+53	DESC:def	What is fibromyalgia ?	DESC
+54	DESC:desc	What is done with worn or outdated flags ?	DESC
+55	DESC:def	What does cc in engines mean ?	DESC
+56	NUM:date	When did Elvis Presley die ?	NUM
+57	LOC:city	What is the capital of Yugoslavia ?	LOC
+58	LOC:city	Where is Milan ?	LOC
+59	NUM:speed	What is the speed hummingbirds fly ?	NUM
+60	LOC:city	What is the oldest city in the United States ?	LOC
+61	HUM:ind	What was W.C. Fields ' real name ?	HUM
+62	LOC:other	What river flows between Fargo , North Dakota and Moorhead , Minnesota ?	LOC
+63	ENTY:food	What do bats eat ?	ENTY
+64	LOC:state	What state did the Battle of Bighorn take place in ?	LOC
+65	HUM:desc	Who was Abraham Lincoln ?	HUM
+66	ENTY:termeq	What do you call a newborn kangaroo ?	ENTY
+67	DESC:def	What are spider veins ?	DESC
+68	NUM:date	What day and month did John Lennon die ?	NUM
+69	LOC:other	What strait separates North America from Asia ?	LOC
+70	NUM:other	What is the population of Seattle ?	NUM
+71	NUM:money	How much was a ticket for the Titanic ?	NUM
+72	LOC:city	What is the largest city in the world ?	LOC
+73	HUM:ind	What American composer wrote the music for `` West Side Story '' ?	HUM
+74	LOC:other	Where is the Mall of the America ?	LOC
+75	DESC:def	What is the pH scale ?	DESC
+76	ENTY:currency	What type of currency is used in Australia ?	ENTY
+77	NUM:dist	How tall is the Gateway Arch in St. Louis , MO ?	NUM
+78	NUM:weight	How much does the human adult female brain weigh ?	NUM
+79	HUM:ind	Who was the first governor of Alaska ?	HUM
+80	DESC:def	What is a prism ?	DESC
+81	NUM:date	When was the first liver transplant ?	NUM
+82	HUM:ind	Who was elected president of South Africa in 1994 ?	HUM
+83	NUM:other	What is the population of China ?	NUM
+84	NUM:date	When was Rosa Parks born ?	NUM
+85	DESC:reason	Why is a ladybug helpful ?	DESC
+86	DESC:def	What is amoxicillin ?	DESC
+87	HUM:ind	Who was the first female United States Representative ?	HUM
+88	DESC:def	What are xerophytes ?	DESC
+89	LOC:country	What country did Ponce de Leon come from ?	LOC
+90	ENTY:event	The U.S. Department of Treasury first issued paper currency for the U.S. during which war ?	ENTY
+91	DESC:def	What is desktop publishing ?	DESC
+92	NUM:temp	What is the temperature of the sun 's surface ?	NUM
+93	NUM:date	What year did Canada join the United Nations ?	NUM
+94	HUM:gr	What is the oldest university in the US ?	HUM
+95	LOC:other	Where is Prince Edward Island ?	LOC
+96	NUM:date	Mercury , what year was it discovered ?	NUM
+97	DESC:def	What is cryogenics ?	DESC
+98	DESC:def	What are coral reefs ?	DESC
+99	ENTY:other	What is the longest major league baseball-winning streak ?	ENTY
+100	DESC:def	What is neurology ?	DESC
+101	HUM:ind	Who invented the calculator ?	HUM
+102	DESC:manner	How do you measure earthquakes ?	DESC
+103	HUM:desc	Who is Duke Ellington ?	HUM
+104	LOC:city	What county is Phoenix , AZ in ?	LOC
+105	DESC:def	What is a micron ?	DESC
+106	NUM:temp	The sun 's core , what is the temperature ?	NUM
+107	ENTY:animal	What is the Ohio state bird ?	ENTY
+108	NUM:date	When were William Shakespeare 's twins born ?	NUM
+109	LOC:other	What is the highest dam in the U.S. ?	LOC
+110	ENTY:color	What color is a poison arrow frog ?	ENTY
+111	DESC:def	What is acupuncture ?	DESC
+112	NUM:dist	What is the length of the coastline of the state of Alaska ?	NUM
+113	HUM:ind	What is the name of Neil Armstrong 's wife ?	HUM
+114	ENTY:plant	What is Hawaii 's state flower ?	ENTY
+115	HUM:ind	Who won Ms. American in 1989 ?	HUM
+116	NUM:date	When did the Hindenberg crash ?	NUM
+117	ENTY:substance	What mineral helps prevent osteoporosis ?	ENTY
+118	NUM:date	What was the last year that the Chicago Cubs won the World Series ?	NUM
+119	LOC:other	Where is Perth ?	LOC
+120	NUM:date	What year did WWII begin ?	NUM
+121	NUM:dist	What is the diameter of a golf ball ?	NUM
+122	DESC:def	What is an eclipse ?	DESC
+123	HUM:ind	Who discovered America ?	HUM
+124	NUM:dist	What is the earth 's diameter ?	NUM
+125	HUM:ind	Which president was unmarried ?	HUM
+126	NUM:dist	How wide is the Milky Way galaxy ?	NUM
+127	NUM:date	During which season do most thunderstorms occur ?	NUM
+128	DESC:def	What is Wimbledon ?	DESC
+129	NUM:period	What is the gestation period for a cat ?	NUM
+130	NUM:dist	How far is a nautical mile ?	NUM
+131	HUM:ind	Who was the abolitionist who led the raid on Harper 's Ferry in 1859 ?	HUM
+132	DESC:def	What does target heart rate mean ?	DESC
+133	ENTY:product	What was the first satellite to go into space ?	ENTY
+134	DESC:def	What is foreclosure ?	DESC
+135	ENTY:other	What is the major fault line near Kentucky ?	ENTY
+136	LOC:other	Where is the Holland Tunnel ?	LOC
+137	HUM:ind	Who wrote the hymn `` Amazing Grace '' ?	HUM
+138	HUM:title	What position did Willie Davis play in baseball ?	HUM
+139	DESC:def	What are platelets ?	DESC
+140	DESC:def	What is severance pay ?	DESC
+141	ENTY:animal	What is the name of Roy Roger 's dog ?	ENTY
+142	LOC:other	Where are the National Archives ?	LOC
+143	ENTY:animal	What is a baby turkey called ?	ENTY
+144	DESC:def	What is poliomyelitis ?	DESC
+145	ENTY:body	What is the longest bone in the human body ?	ENTY
+146	HUM:ind	Who is a German philosopher ?	HUM
+147	ENTY:veh	What were Christopher Columbus ' three ships ?	ENTY
+148	DESC:def	What does Phi Beta Kappa mean ?	DESC
+149	DESC:def	What is nicotine ?	DESC
+150	ENTY:termeq	What is another name for vitamin B1 ?	ENTY
+151	HUM:ind	Who discovered radium ?	HUM
+152	DESC:def	What are sunspots ?	DESC
+153	NUM:date	When was Algeria colonized ?	NUM
+154	HUM:gr	What baseball team was the first to make numbers part of their uniform ?	HUM
+155	LOC:other	What continent is Egypt on ?	LOC
+156	LOC:city	What is the capital of Mongolia ?	LOC
+157	DESC:def	What is nanotechnology ?	DESC
+158	LOC:other	In the late 1700 's British convicts were used to populate which colony ?	LOC
+159	LOC:state	What state is the geographic center of the lower 48 states ?	LOC
+160	DESC:def	What is an obtuse angle ?	DESC
+161	DESC:def	What are polymers ?	DESC
+162	NUM:date	When is hurricane season in the Caribbean ?	NUM
+163	LOC:other	Where is the volcano Mauna Loa ?	LOC
+164	ENTY:termeq	What is another astronomic term for the Northern Lights ?	ENTY
+165	LOC:other	What peninsula is Spain part of ?	LOC
+166	NUM:date	When was Lyndon B. Johnson born ?	NUM
+167	DESC:def	What is acetaminophen ?	DESC
+168	LOC:state	What state has the least amount of rain per year ?	LOC
+169	HUM:ind	Who founded American Red Cross ?	HUM
+170	NUM:date	What year did the Milwaukee Braves become the Atlanta Braves ?	NUM
+171	NUM:speed	How fast is alcohol absorbed ?	NUM
+172	NUM:date	When is the summer solstice ?	NUM
+173	DESC:def	What is supernova ?	DESC
+174	LOC:other	Where is the Shawnee National Forest ?	LOC
+175	LOC:state	What U.S. state 's motto is `` Live free or Die '' ?	LOC
+176	LOC:other	Where is the Lourve ?	LOC
+177	NUM:date	When was the first stamp issued ?	NUM
+178	ENTY:color	What primary colors do you mix to make orange ?	ENTY
+179	NUM:dist	How far is Pluto from the sun ?	NUM
+180	LOC:other	What body of water are the Canary Islands in ?	LOC
+181	DESC:def	What is neuropathy ?	DESC
+182	LOC:other	Where is the Euphrates River ?	LOC
+183	DESC:def	What is cryptography ?	DESC
+184	ENTY:substance	What is natural gas composed of ?	ENTY
+185	HUM:ind	Who is the Prime Minister of Canada ?	HUM
+186	HUM:ind	What French ruler was defeated at the battle of Waterloo ?	HUM
+187	DESC:def	What is leukemia ?	DESC
+188	LOC:other	Where did Howard Hughes die ?	LOC
+189	ENTY:substance	What is the birthstone for June ?	ENTY
+190	ENTY:other	What is the sales tax in Minnesota ?	ENTY
+191	NUM:dist	What is the distance in miles from the earth to the sun ?	NUM
+192	NUM:period	What is the average life span for a chicken ?	NUM
+193	NUM:date	When was the first Wal-Mart store opened ?	NUM
+194	DESC:def	What is relative humidity ?	DESC
+195	LOC:city	What city has the zip code of 35824 ?	LOC
+196	ENTY:currency	What currency is used in Algeria ?	ENTY
+197	HUM:ind	Who invented the hula hoop ?	HUM
+198	ENTY:product	What was the most popular toy in 1957 ?	ENTY
+199	ENTY:substance	What is pastrami made of ?	ENTY
+200	ENTY:product	What is the name of the satellite that the Soviet Union sent into space in 1957 ?	ENTY
+201	LOC:city	What city 's newspaper is called `` The Enquirer '' ?	LOC
+202	HUM:ind	Who invented the slinky ?	HUM
+203	ENTY:animal	What are the animals that don 't have backbones called ?	ENTY
+204	NUM:other	What is the melting point of copper ?	NUM
+205	LOC:other	Where is the volcano Olympus Mons located ?	LOC
+206	HUM:ind	Who was the 23rd president of the United States ?	HUM
+207	NUM:temp	What is the average body temperature ?	NUM
+208	DESC:desc	What does a defibrillator do ?	DESC
+209	DESC:desc	What is the effect of acid rain ?	DESC
+210	NUM:date	What year did the United States abolish the draft ?	NUM
+211	NUM:speed	How fast is the speed of light ?	NUM
+212	LOC:state	What province is Montreal in ?	LOC
+213	LOC:other	What New York City structure is also known as the Twin Towers ?	LOC
+214	DESC:def	What is fungus ?	DESC
+215	ENTY:lang	What is the most frequently spoken language in the Netherlands ?	ENTY
+216	DESC:def	What is sodium chloride ?	DESC
+217	ENTY:termeq	What are the spots on dominoes called ?	ENTY
+218	NUM:count	How many pounds in a ton ?	NUM
+219	DESC:def	What is influenza ?	DESC
+220	DESC:def	What is ozone depletion ?	DESC
+221	NUM:date	What year was the Mona Lisa painted ?	NUM
+222	DESC:def	What does `` Sitting Shiva '' mean ?	DESC
+223	ENTY:other	What is the electrical output in Madrid , Spain ?	ENTY
+224	LOC:mount	Which mountain range in North America stretches from Maine to Georgia ?	LOC
+225	ENTY:substance	What is plastic made of ?	ENTY
+226	NUM:other	What is the population of Nigeria ?	NUM
+227	DESC:desc	What does your spleen do ?	DESC
+228	LOC:other	Where is the Grand Canyon ?	LOC
+229	HUM:ind	Who invented the telephone ?	HUM
+230	NUM:date	What year did the U.S. buy Alaska ?	NUM
+231	HUM:ind	What is the name of the leader of Ireland ?	HUM
+232	DESC:def	What is phenylalanine ?	DESC
+233	NUM:count	How many gallons of water are there in a cubic foot ?	NUM
+234	ENTY:other	What are the two houses of the Legislative branch ?	ENTY
+235	DESC:def	What is sonar ?	DESC
+236	LOC:other	In Poland , where do most people live ?	LOC
+237	DESC:def	What is phosphorus ?	DESC
+238	LOC:other	What is the location of the Sea of Tranquility ?	LOC
+239	NUM:speed	How fast is sound ?	NUM
+240	LOC:state	What French province is cognac produced in ?	LOC
+241	DESC:def	What is Valentine 's Day ?	DESC
+242	DESC:reason	What causes gray hair ?	DESC
+243	DESC:def	What is hypertension ?	DESC
+244	DESC:def	What is bandwidth ?	DESC
+245	LOC:other	What is the longest suspension bridge in the U.S. ?	LOC
+246	DESC:def	What is a parasite ?	DESC
+247	DESC:def	What is home equity ?	DESC
+248	DESC:desc	What do meteorologists do ?	DESC
+249	ENTY:other	What is the criterion for being legally blind ?	ENTY
+250	HUM:ind	Who is the tallest man in the world ?	HUM
+251	LOC:city	What are the twin cities ?	LOC
+252	ENTY:other	What did Edward Binney and Howard Smith invent in 1903 ?	ENTY
+253	ENTY:substance	What is the statue of liberty made of ?	ENTY
+254	DESC:def	What is pilates ?	DESC
+255	LOC:other	What planet is known as the `` red '' planet ?	LOC
+256	NUM:dist	What is the depth of the Nile river ?	NUM
+257	ENTY:termeq	What is the colorful Korean traditional dress called ?	ENTY
+258	DESC:def	What is Mardi Gras ?	DESC
+259	NUM:money	Mexican pesos are worth what in U.S. dollars ?	NUM
+260	HUM:ind	Who was the first African American to play for the Brooklyn Dodgers ?	HUM
+261	HUM:ind	Who was the first Prime Minister of Canada ?	HUM
+262	NUM:count	How many Admirals are there in the U.S. Navy ?	NUM
+263	ENTY:instru	What instrument did Glenn Miller play ?	ENTY
+264	NUM:period	How old was Joan of Arc when she died ?	NUM
+265	DESC:def	What does the word fortnight mean ?	DESC
+266	DESC:def	What is dianetics ?	DESC
+267	LOC:city	What is the capital of Ethiopia ?	LOC
+268	NUM:period	For how long is an elephant pregnant ?	NUM
+269	DESC:manner	How did Janice Joplin die ?	DESC
+270	ENTY:lang	What is the primary language in Iceland ?	ENTY
+271	DESC:desc	What is the difference between AM radio stations and FM radio stations ?	DESC
+272	DESC:def	What is osteoporosis ?	DESC
+273	HUM:ind	Who was the first woman governor in the U.S. ?	HUM
+274	DESC:def	What is peyote ?	DESC
+275	DESC:reason	What is the esophagus used for ?	DESC
+276	DESC:def	What is viscosity ?	DESC
+277	NUM:date	What year did Oklahoma become a state ?	NUM
+278	ABBR:abb	What is the abbreviation for Texas ?	ABBR
+279	ENTY:substance	What is a mirror made out of ?	ENTY
+280	LOC:other	Where on the body is a mortarboard worn ?	LOC
+281	HUM:ind	What was J.F.K. 's wife 's name ?	HUM
+282	ABBR:exp	What does I.V. stand for ?	ABBR
+283	DESC:def	What is the chunnel ?	DESC
+284	LOC:other	Where is Hitler buried ?	LOC
+285	DESC:def	What are antacids ?	DESC
+286	DESC:def	What is pulmonary fibrosis ?	DESC
+287	DESC:def	What are Quaaludes ?	DESC
+288	DESC:def	What is naproxen ?	DESC
+289	DESC:def	What is strep throat ?	DESC
+290	LOC:city	What is the largest city in the U.S. ?	LOC
+291	ENTY:dismed	What is foot and mouth disease ?	ENTY
+292	NUM:other	What is the life expectancy of a dollar bill ?	NUM
+293	ENTY:termeq	What do you call a professional map drawer ?	ENTY
+294	DESC:def	What are Aborigines ?	DESC
+295	DESC:def	What is hybridization ?	DESC
+296	ENTY:color	What color is indigo ?	ENTY
+297	NUM:period	How old do you have to be in order to rent a car in Italy ?	NUM
+298	ENTY:other	What does a barometer measure ?	ENTY
+299	ENTY:color	What color is a giraffe 's tongue ?	ENTY
+300	ABBR:exp	What does USPS stand for ?	ABBR
+301	NUM:date	What year did the NFL go on strike ?	NUM
+302	DESC:def	What is solar wind ?	DESC
+303	NUM:date	What date did Neil Armstrong land on the moon ?	NUM
+304	NUM:date	When was Hiroshima bombed ?	NUM
+305	LOC:other	Where is the Savannah River ?	LOC
+306	HUM:ind	Who was the first woman killed in the Vietnam War ?	HUM
+307	LOC:other	What planet has the strongest magnetic field of all the planets ?	LOC
+308	HUM:ind	Who is the governor of Alaska ?	HUM
+309	NUM:date	What year did Mussolini seize power in Italy ?	NUM
+310	LOC:city	What is the capital of Persia ?	LOC
+311	LOC:other	Where is the Eiffel Tower ?	LOC
+312	NUM:count	How many hearts does an octopus have ?	NUM
+313	DESC:def	What is pneumonia ?	DESC
+314	LOC:other	What is the deepest lake in the US ?	LOC
+315	DESC:def	What is a fuel cell ?	DESC
+316	HUM:ind	Who was the first U.S. president to appear on TV ?	HUM
+317	LOC:other	Where is the Little League Museum ?	LOC
+318	ENTY:other	What are the two types of twins ?	ENTY
+319	LOC:other	What is the brightest star ?	LOC
+320	DESC:def	What is diabetes ?	DESC
+321	NUM:date	When was President Kennedy shot ?	NUM
+322	ABBR:exp	What is TMJ ?	ABBR
+323	ENTY:color	What color is yak milk ?	ENTY
+324	NUM:date	What date was Dwight D. Eisenhower born ?	NUM
+325	ABBR:exp	What does the technical term ISDN mean ?	ABBR
+326	DESC:reason	Why is the sun yellow ?	DESC
+327	NUM:money	What is the conversion rate between dollars and pounds ?	NUM
+328	NUM:date	When was Abraham Lincoln born ?	NUM
+329	DESC:def	What is the Milky Way ?	DESC
+330	DESC:def	What is mold ?	DESC
+331	NUM:date	What year was Mozart born ?	NUM
+332	ENTY:animal	What is a group of frogs called ?	ENTY
+333	ENTY:veh	What is the name of William Penn 's ship ?	ENTY
+334	NUM:other	What is the melting point of gold ?	NUM
+335	LOC:other	What is the street address of the White House ?	LOC
+336	DESC:def	What is semolina ?	DESC
+337	ENTY:food	What fruit is Melba sauce made from ?	ENTY
+338	DESC:def	What is Ursa Major ?	DESC
+339	NUM:perc	What is the percentage of water content in the human body ?	NUM
+340	NUM:weight	How much does water weigh ?	NUM
+341	ENTY:event	What was President Lyndon Johnson 's reform program called ?	ENTY
+342	NUM:perc	What is the murder rate in Windsor , Ontario ?	NUM
+343	HUM:ind	Who is the only president to serve 2 non-consecutive terms ?	HUM
+344	NUM:other	What is the population of Australia ?	NUM
+345	HUM:ind	Who painted the ceiling of the Sistine Chapel ?	HUM
+346	ENTY:dismed	Name a stimulant .	ENTY
+347	DESC:desc	What is the effect of volcanoes on the climate ?	DESC
+348	NUM:date	What year did the Andy Griffith show begin ?	NUM
+349	DESC:def	What is acid rain ?	DESC
+350	NUM:date	What is the date of Mexico 's independence ?	NUM
+351	LOC:other	What is the location of Lake Champlain ?	LOC
+352	ENTY:plant	What is the Illinois state flower ?	ENTY
+353	ENTY:animal	What is Maryland 's state bird ?	ENTY
+354	DESC:def	What is quicksilver ?	DESC
+355	HUM:ind	Who wrote `` The Divine Comedy '' ?	HUM
+356	NUM:speed	What is the speed of light ?	NUM
+357	NUM:dist	What is the width of a football field ?	NUM
+358	DESC:reason	Why in tennis are zero points called love ?	DESC
+359	ENTY:animal	What kind of dog was Toto in the Wizard of Oz ?	ENTY
+360	DESC:def	What is a thyroid ?	DESC
+361	DESC:def	What does ciao mean ?	DESC
+362	ENTY:body	What is the only artery that carries blue blood from the heart to the lungs ?	ENTY
+363	NUM:other	How often does Old Faithful erupt at Yellowstone National Park ?	NUM
+364	DESC:def	What is acetic acid ?	DESC
+365	NUM:dist	What is the elevation of St. Louis , MO ?	NUM
+366	ENTY:color	What color does litmus paper turn when it comes into contact with a strong acid ?	ENTY
+367	ENTY:color	What are the colors of the German flag ?	ENTY
+368	DESC:def	What is the Moulin Rouge ?	DESC
+369	LOC:other	What soviet seaport is on the Black Sea ?	LOC
+370	NUM:weight	What is the atomic weight of silver ?	NUM
+371	ENTY:currency	What currency do they use in Brazil ?	ENTY
+372	DESC:def	What are pathogens ?	DESC
+373	DESC:def	What is mad cow disease ?	DESC
+374	ENTY:food	Name a food high in zinc .	ENTY
+375	NUM:date	When did North Carolina enter the union ?	NUM
+376	LOC:other	Where do apple snails live ?	LOC
+377	DESC:def	What are ethics ?	DESC
+378	ABBR:exp	What does CPR stand for ?	ABBR
+379	DESC:def	What is an annuity ?	DESC
+380	HUM:ind	Who killed John F. Kennedy ?	HUM
+381	HUM:ind	Who was the first vice president of the U.S. ?	HUM
+382	ENTY:substance	What birthstone is turquoise ?	ENTY
+383	HUM:ind	Who was the first US President to ride in an automobile to his inauguration ?	HUM
+384	NUM:period	How old was the youngest president of the United States ?	NUM
+385	NUM:date	When was Ulysses S. Grant born ?	NUM
+386	DESC:def	What is Muscular Dystrophy ?	DESC
+387	HUM:ind	Who lived in the Neuschwanstein castle ?	HUM
+388	DESC:def	What is propylene glycol ?	DESC
+389	DESC:def	What is a panic disorder ?	DESC
+390	HUM:ind	Who invented the instant Polaroid camera ?	HUM
+391	DESC:def	What is a carcinogen ?	DESC
+392	ENTY:animal	What is a baby lion called ?	ENTY
+393	NUM:other	What is the world 's population ?	NUM
+394	DESC:def	What is nepotism ?	DESC
+395	DESC:def	What is die-casting ?	DESC
+396	DESC:def	What is myopia ?	DESC
+397	NUM:other	What is the sales tax rate in New York ?	NUM
+398	NUM:perc	Developing nations comprise what percentage of the world 's population ?	NUM
+399	LOC:mount	What is the fourth highest mountain in the world ?	LOC
+400	HUM:ind	What is Shakespeare 's nickname ?	HUM
+401	ENTY:substance	What is the heaviest naturally occurring element ?	ENTY
+402	NUM:date	When is Father 's Day ?	NUM
+403	ABBR:exp	What does the acronym NASA stand for ?	ABBR
+404	NUM:dist	How long is the Columbia River in miles ?	NUM
+405	LOC:city	What city 's newspaper is called `` The Star '' ?	LOC
+406	DESC:def	What is carbon dioxide ?	DESC
+407	LOC:other	Where is the Mason/Dixon line ?	LOC
+408	NUM:date	When was the Boston tea party ?	NUM
+409	DESC:def	What is metabolism ?	DESC
+410	HUM:ind	Which U.S.A. president appeared on `` Laugh-In '' ?	HUM
+411	ENTY:substance	What are cigarettes made of ?	ENTY
+412	LOC:city	What is the capital of Zimbabwe ?	LOC
+413	ABBR:exp	What does NASA stand for ?	ABBR
+414	ENTY:plant	What is the state flower of Michigan ?	ENTY
+415	DESC:def	What are semiconductors ?	DESC
+416	DESC:def	What is nuclear power ?	DESC
+417	DESC:def	What is a tsunami ?	DESC
+418	HUM:ind	Who is the congressman from state of Texas on the armed forces committee ?	HUM
+419	HUM:ind	Who was president in 1913 ?	HUM
+420	NUM:date	When was the first kidney transplant ?	NUM
+421	LOC:other	What are Canada 's two territories ?	LOC
+422	ENTY:veh	What was the name of the plane Lindbergh flew solo across the Atlantic ?	ENTY
+423	DESC:def	What is genocide ?	DESC
+424	LOC:other	What continent is Argentina on ?	LOC
+425	ENTY:other	What monastery was raided by Vikings in the late eighth century ?	ENTY
+426	DESC:def	What is an earthquake ?	DESC
+427	LOC:other	Where is the tallest roller coaster located ?	LOC
+428	DESC:def	What are enzymes ?	DESC
+429	HUM:ind	Who discovered oxygen ?	HUM
+430	DESC:def	What is bangers and mash ?	DESC
+431	ENTY:animal	What is the name given to the Tiger at Louisiana State University ?	ENTY
+432	LOC:other	Where are the British crown jewels kept ?	LOC
+433	HUM:ind	Who was the first person to reach the North Pole ?	HUM
+434	DESC:def	What is an ulcer ?	DESC
+435	DESC:def	What is vertigo ?	DESC
+436	DESC:def	What is the spirometer test ?	DESC
+437	NUM:date	When is the official first day of summer ?	NUM
+438	ABBR:exp	What does the abbreviation SOS mean ?	ABBR
+439	ENTY:animal	What is the smallest bird in Britain ?	ENTY
+440	HUM:ind	Who invented Trivial Pursuit ?	HUM
+441	ENTY:substance	What gasses are in the troposphere ?	ENTY
+442	LOC:country	Which country has the most water pollution ?	LOC
+443	ENTY:animal	What is the scientific name for elephant ?	ENTY
+444	HUM:ind	Who is the actress known for her role in the movie `` Gypsy '' ?	HUM
+445	ENTY:animal	What breed of hunting dog did the Beverly Hillbillies own ?	ENTY
+446	LOC:other	What is the rainiest place on Earth ?	LOC
+447	HUM:ind	Who was the first African American to win the Nobel Prize in literature ?	HUM
+448	NUM:date	When is St. Patrick 's Day ?	NUM
+449	ENTY:animal	What was FDR 's dog 's name ?	ENTY
+450	ENTY:color	What colors need to be mixed to get the color pink ?	ENTY
+451	ENTY:sport	What is the most popular sport in Japan ?	ENTY
+452	ENTY:food	What is the active ingredient in baking soda ?	ENTY
+453	NUM:date	When was Thomas Jefferson born ?	NUM
+454	NUM:temp	How cold should a refrigerator be ?	NUM
+455	NUM:date	When was the telephone invented ?	NUM
+456	ENTY:color	What is the most common eye color ?	ENTY
+457	LOC:other	Where was the first golf course in the United States ?	LOC
+458	DESC:def	What is schizophrenia ?	DESC
+459	DESC:def	What is angiotensin ?	DESC
+460	HUM:gr	What did Jesse Jackson organize ?	HUM
+461	ENTY:animal	What is New York 's state bird ?	ENTY
+462	LOC:other	What is the National Park in Utah ?	LOC
+463	NUM:date	What is Susan B. Anthony 's birthday ?	NUM
+464	LOC:state	In which state would you find the Catskill Mountains ?	LOC
+465	ENTY:termeq	What do you call a word that is spelled the same backwards and forwards ?	ENTY
+466	DESC:def	What are pediatricians ?	DESC
+467	HUM:gr	What chain store is headquartered in Bentonville , Arkansas ?	HUM
+468	DESC:def	What are solar cells ?	DESC
+469	DESC:def	What is compounded interest ?	DESC
+470	DESC:def	What are capers ?	DESC
+471	DESC:def	What is an antigen ?	DESC
+472	ENTY:currency	What currency does Luxembourg use ?	ENTY
+473	NUM:other	What is the population of Venezuela ?	NUM
+474	ENTY:other	What type of polymer is used for bulletproof vests ?	ENTY
+475	ENTY:currency	What currency does Argentina use ?	ENTY
+476	DESC:def	What is a thermometer ?	DESC
+477	LOC:city	What Canadian city has the largest population ?	LOC
+478	ENTY:color	What color are crickets ?	ENTY
+479	LOC:country	Which country gave New York the Statue of Liberty ?	LOC
+480	ENTY:product	What was the name of the first U.S. satellite sent into space ?	ENTY
+481	ENTY:substance	What precious stone is a form of pure carbon ?	ENTY
+482	ENTY:substance	What kind of gas is in a fluorescent bulb ?	ENTY
+483	DESC:def	What is rheumatoid arthritis ?	DESC
+484	LOC:other	What river runs through Rowe , Italy ?	LOC
+485	DESC:def	What is cerebral palsy ?	DESC
+486	LOC:city	What city is also known as `` The Gateway to the West '' ?	LOC
+487	NUM:dist	How far away is the moon ?	NUM
+488	ENTY:other	What is the source of natural gas ?	ENTY
+489	ENTY:veh	In what spacecraft did U.S. astronaut Alan Shepard make his historic 1961 flight ?	ENTY
+490	DESC:def	What is pectin ?	DESC
+491	DESC:def	What is bio-diversity ?	DESC
+492	ENTY:techmeth	What 's the easiest way to remove wallpaper ?	ENTY
+493	NUM:date	What year did the Titanic start on its journey ?	NUM
+494	NUM:count	How much of an apple is water ?	NUM
+495	HUM:ind	Who was the 22nd President of the US ?	HUM
+496	ENTY:currency	What is the money they use in Zambia ?	ENTY
+497	NUM:count	How many feet in a mile ?	NUM
+498	ENTY:substance	What is the birthstone of October ?	ENTY
+499	DESC:def	What is e-coli ?	DESC

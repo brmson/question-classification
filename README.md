@@ -24,6 +24,14 @@ The accuracy on test data set is around 72%. The question vector is computed as 
 If the first two words are "what is" then the question vector is computed as an averge over all words. The questions starting with "what"
 or "what is" are hard to classify because it would need some more information about which word in question is relevant for its type.
 
+Classification using LAT features
+=================================
+
+With question LAT features, the average accuracy with cross validation is around 82%.
+The notebook testing this type of classification is called classify-from-features.ipynb.
+TODO: dump train adn test data sets at once in order to get same number of features for both data sets
+TODO: combine this classifier with the one using words embeddings 
+
 
 DATASETS
 ========
