@@ -29,9 +29,16 @@ Classification using LAT features
 
 With question LAT features, the average accuracy with cross validation is around 82%.
 The notebook testing this type of classification is called classify-from-features.ipynb.
-TODO: dump train adn test data sets at once in order to get same number of features for both data sets
-TODO: combine this classifier with the one using words embeddings 
+The accuracy on test data set is around 86.4%.
 
+The classifier combined from sparse feature vector, 4 word vectors (first word, second word, support verb, average over LAT fetures) plus 
+support verb presence flag resulted into 89.8%.
+
+Fine class labels
+=================
+
+Training question classifier with fine lables instead of coarse one resulted into 75% accuracy on test data set.
+Combination of sparse feature vector and four word vectors resulted into 80.4% accuracy.
 
 DATASETS
 ========
